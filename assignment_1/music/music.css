@@ -1,0 +1,21 @@
+h3{
+    text-align:center;
+}
+.link{
+    color: blue;
+}
+.photo1{
+    height: 68%;
+    width: 49%;
+    position: absolute;
+    top:185px;
+    right:190px;
+}
+
+.photo2{
+    height:75%;
+    width:45%;
+    position: absolute;
+    top: 150px;
+    left:180px;
+}

@@ -1,0 +1,18 @@
+h3{
+    text-align:center;
+}
+.photo1{
+    height: 60.5%;
+    width: 55%;
+    position: absolute;
+    top:190px;
+    right:125px;
+}
+
+.photo2{
+    height:60%;
+    width:55%;
+    position: absolute;
+    top: 190px;
+    left:125px;
+}

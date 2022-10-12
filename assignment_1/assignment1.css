@@ -1,0 +1,81 @@
+body {
+  background-color:pink;
+}
+
+
+.hobby1 {
+  position: absolute;
+  left: 120px;
+  top:117px;
+}
+
+.hobby1 img {
+  height: 160%;
+  width: 160%;
+}
+
+.hobby1text {
+  position: absolute;
+  top:400px;
+  left: 314px;
+}
+
+.hobby2 {
+  position: absolute;
+  left: 580px;
+  bottom: 105px;
+}
+
+.hobby2 img {
+  height: 160%;
+  width: 160%;
+}
+
+.hobby2text {
+  position: absolute;
+  bottom:50px;
+  left: 730px;
+}
+
+.hobby4 {
+  position: absolute;
+  left: 1400px;
+  bottom: 105px;
+}
+
+.hobby4 img {
+  height: 160%;
+  width: 160%;
+}
+
+.hobby3 {
+  position: absolute;
+  left: 933px;
+  top:120px;
+}
+
+.hobby3 img {
+  height: 160%;
+  width: 160%;
+}
+
+.hobby3text {
+  position: absolute;
+  top:400px;
+  left: 1114px;
+}
+
+.hobby4text {
+  position: absolute;
+  bottom:50px;
+  left: 1555px;
+}
+
+.link{
+  color:black;
+  font-size: 24px;
+}
+
+ a:hover{
+  color: blue;
+}
